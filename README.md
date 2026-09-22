@@ -1,3 +1,6 @@
+REMEMEBER TO CLICK "INSERT" AFTER RUNING rhythia_auto.py, OTWHERWISE THE MENU WONT SHOW UP !!
+
+
 # Rhythia Auto
 
 Auto-play overlay for Rhythia — loads a `.sspm` map file and simulates mouse clicks in sync with the music. Comes with a clean UI panel that toggles with a single hotkey.
