@@ -1,0 +1,4 @@
+keyboard
+pydirectinput
+pysspm-rhythia
+numpy
